@@ -1,0 +1,20 @@
+{
+"companyName": "Art New York ES Corporation",
+"productName": "ArtVR Festival Vote",
+"productVersion": "0.1",
+"dataUrl": "ArtVR Festival.data.unityweb",
+"wasmCodeUrl": "ArtVR Festival.wasm.code.unityweb",
+"wasmFrameworkUrl": "ArtVR Festival.wasm.framework.unityweb",
+"asmCodeUrl": "ArtVR Festival.asm.code.unityweb",
+"asmMemoryUrl": "ArtVR Festival.asm.memory.unityweb",
+"asmFrameworkUrl": "ArtVR Festival.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
